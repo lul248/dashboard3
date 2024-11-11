@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dashboard3</string>
+    <string name="record">Record</string>
+    <string name="task_categories">task categories</string>
+    <string name="more" />
+    <string name="personal">Personal</string>
+    <string name="fitness">fitness</string>
+    <string name="_147">147</string>
+    <string name="_395">395</string>
+    <string name="work">work</string>
+    <string name="_820">820</string>
+    <string name="finished_task_meeting">Finished task: Meeting</string>
+    <string name="_186">186</string>
+    <string name="_225">225</string>
+    <string name="workout_running">Workout:Running</string>
+    <string name="_1_day_ago">1 day ago</string>
+    <string name="_2_hours_ago">2 hours ago</string>
+    <string name="setting">Setting</string>
+    <string name="_7_tasks">7 tasks</string>
+    <string name="_5_tasks">5 tasks</string>
+    <string name="_10_tasks">10 tasks</string>
+    <string name="category_1">Category 1</string>
+    <string name="category_2">Category 2</string>
+    <string name="category_3">Category 3</string>
+</resources>
